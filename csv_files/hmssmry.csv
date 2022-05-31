@@ -1,0 +1,5 @@
+Directorate Name,Facility Type,Total Facility Count,Total Live Facility Count,Facility Live count %,Total User Count,User Login Count,Users Login  %,Registration Count,Lab Order Count,Admission Count,Total Department Count,Total Active Department Count,Department Using %, Total Doctor Count, Total Doctor Login Count,Doctor Login %,Total Nurse Count,Total Nurse Login Count,Nurse Login %
+DMS,,309,301,97%,16304,13205,81%,4498575,2690553,120161,11130,2101,19%,3732,1950,52%,5779,275,5%
+DME,,54,43,80%,11771,11186,95%,2769555,1095012,371391,5830,913,16%,4502,1499,33%,4572,209,5%
+DPH,,2375,2160,91%,15775,13609,86%,3650025,5696101,177,34800,7864,23%,4354,3999,92%,2198,3,0%
+
