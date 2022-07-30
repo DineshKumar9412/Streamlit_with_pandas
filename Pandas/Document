@@ -1,0 +1,155 @@
+Pandas DataFrame
+Created by Hari Kumar R
+Last updated: May 11, 20221 min read
+2 people viewed
+Pandas Basic comment 
+
+Python Cheat Sheet for Data Science 
+
+https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
+
+Scikit-Learn Cheat Sheet: Python Machine Learning 
+
+Top 28 Cheat Sheets for Machine Learning, Data Science and Big Data 
+
+Pandas Cheat Sheet — Python for Data Science 
+
+Pandas 101 - Python and R Tips 
+
+Mean Function in Python pandas (Dataframe, Row and column wise mean) - DataScience Made Simple 
+
+Pandas Fliters
+
+https://towardsdatascience.com/8-ways-to-filter-pandas-dataframes-d34ba585c1b8 
+
+pandas: filter rows of DataFrame with operator chaining 
+
+How to filter data without using pandas package
+
+Python : 10 Ways to Filter Pandas DataFrame 
+
+Python Pandas : Select Rows in DataFrame by conditions on multiple columns 
+
+Read csv file
+
+
+import pandas as pd
+import streamlit as st
+import plotly.express as px
+
+df = pd.read_csv("train.csv")
+print(df.head().to_string())
+ 
+
+Get value
+
+
+df1 = df[df['City'] == "Henderson"]
+print(df1.head().to_string())
+ 
+
+Contains mean “like” in mysql
+
+
+df1 = df[df['Position'].str.contains("PG”)]
+Ex:  You have Chennai  …. Give .str.contains(“che”) its show chennai
+ 
+
+Show Multiple Column
+
+
+df = dfs[["gid", "District Name", "Interface SAA"]]
+print(dh.head().to_string())
+ 
+
+Search Multiple list in single column
+
+
+frame = df[df[a].isin(dh)]
+
+Example:
+fr = df[df["State"].isin(["fgft","hggf"])]
+ 
+
+Dictionary  to filter in pandas
+
+
+dict = {}
+for a,g in enumerate(range(ss)):
+    gh = st.sidebar.selectbox("Filter {} value".format(a), df.columns, key=a)
+    gg = st.multiselect('Which one you want to choose?', df[gh].unique(), key=a)
+    dict.update({gh : gg})
+# print(dict.keys())
+cols = list(dict.keys())
+res = df[df[cols].isin(dict).all(1)]
+
+
+fg = df1.loc[df1[filter_v.keys()].isin(filter_v.values()).all(axis=1), :]
+fg = df1.loc[(df1[list(filter_v)] == pd.Series(filter_v)).all(axis=1)]
+DATE AND Month
+
+Extract month and year to a new column in Pandas | Data Interview Questions 
+
+DuckDB - Efficient SQL on Pandas with DuckDB 
+
+Pandas Pivot table | Create Pivot Table Using Pandas in Python 
+
+Data Preprocessing 
+
+df = pd.read_csv("train.csv")
+
+print(df.describe())
+
+print(df.dtypes)
+
+print(df.info())           ###good
+
+prrint(df.select_dtypes(include = np.object)
+
+covert to object / int32 to datatime formet in pandas
+
+Pandas Convert Column to datetime - object/string, integer, CSV & Excel 
+
+Convert the column type from string to datetime format in Pandas dataframe - GeeksforGeeks 
+
+How to get First Value in your dataframe
+
+
+df = pd.read_csv("train.csv")
+df['year'] = pd.DatetimeIndex(df['Ship Date']).year
+dff = df[df["year"] == 2017]
+fin = dff.groupby(["Product Name", "City"])['Sales'].sum().sort_values(ascending=False).reset_index()
+# fin.iloc[0].tolist()
+#fin.iloc[0]
+print(fin.iloc[0].tolist()[2])
+ 
+
+What Is Pandas in Python? Everything You Need to Know 
+
+Change datatype (object to datetime)
+
+
+df["Order_test_date"] = pd.to_datetime(df["Order_test_date"])
+
+#How to get last five days data
+print(df[df["Order_test_date"] >= (pd.to_datetime('8/5/21') - pd.Timedelta(days=4))])
+ 
+
+How to Add or Insert Row to Pandas DataFrame? - Python Examples 
+
+Date and time filter
+
+How to Filter DataFrame by Date in Pandas 
+
+Date and time
+
+
+import pandas as pd
+
+df = pd.read_csv("file.csv")
+df['Date'] = pd.DatetimeIndex(df['Date'])
+df['month'] = pd.DatetimeIndex(df['Date']).month
+df['month'] = df['Date'].dt.strftime('%b')
+#df['month'] = df['Date'].dt.strftime('%B')
+fu = df[df["month"] == "Jan"]
+print(fu)
