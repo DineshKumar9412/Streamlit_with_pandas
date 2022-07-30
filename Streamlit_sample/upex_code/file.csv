@@ -1,0 +1,384 @@
+,Test_name,01-Aug-2021,02-Aug-2021,03-Aug-2021,04-Aug-2021,05-Aug-2021,Grand_Total
+0,Complete Blood Count,70,99,18,132,2,321
+1,Blood Sugar Random,3,4,0,6,0,13
+2,Urine Analysis (Urine Routine),2,3,0,2,0,7
+3,Blood Sugar Postprandial (PP),0,0,0,4,0,4
+4,Blood Sugar Fasting,0,0,0,4,0,4
+5,WIDAL Test (Typhoid),0,2,0,1,0,3
+6,Serum C-Reactive Protein (CRP),0,2,0,1,0,3
+7,Serum Bilirubin - Direct,0,0,0,2,0,2
+8,Blood Grouping and Rh Typing,0,0,0,2,0,2
+9,Bleeding Time,0,0,0,2,0,2
+10,Serum Cholesterol,0,1,0,1,0,2
+11,HBsAg(Rapid),0,0,0,2,0,2
+12,SGOT,0,0,0,2,0,2
+13,Serum Thyroid Stimulating Hormone(TSH),0,1,0,1,0,2
+14,Serum Bilirubin - Total,0,0,0,2,0,2
+15,Clotting Time,0,0,0,2,0,2
+16,Creatinine,0,1,0,1,0,2
+17,SGPT,0,0,0,1,0,1
+18,HIV Rapid test,0,0,0,1,0,1
+19,Blood Urea,0,0,0,1,0,1
+20,LDL Cholestrol,0,0,0,0,0,0
+21,LEPTOSPIRA DARK FIELD MICROSCOPY,0,0,0,0,0,0
+22,LEPTOSPIRA MAT,0,0,0,0,0,0
+23,met test,0,0,0,0,0,0
+24,Manual Platelet Count,0,0,0,0,0,0
+25,Malaria (Slide Method),0,0,0,0,0,0
+26,Macroscopic Slide Agglutination Test for Leptospira(MSAT),0,0,0,0,0,0
+27,LEPTOSPIRA MSAT,0,0,0,0,0,0
+28,Leptospirosis- Conventional PCR,0,0,0,0,0,0
+29,Lipid Profile,0,0,0,0,0,0
+30,Liquid Based Cytology,0,0,0,0,0,0
+31,Malaria (Rapid Test),0,0,0,0,0,0
+32,Liver Function Test(LFT),0,0,0,0,0,0
+33,Low Fluorescent Reticulocyte (LFR),0,0,0,0,0,0
+34,Microscopic Agglutination Test for Leptospira(MAT),0,0,0,0,0,0
+35,MP by Quantitative Buffy Coat (QBC),0,0,0,0,0,0
+36,Middle Fluorescent Reticulocyte (MFR),0,0,0,0,0,0
+37,Phenylketonuria test,0,0,0,0,0,0
+38,rede (deleted) 1443,0,0,0,0,0,0
+39,Red blood Cells  (Urine),0,0,0,0,0,0
+40,red (deleted) 1441,0,0,0,0,0,0
+41,Rapid Plasma Reagin (RPR),0,0,0,0,0,0
+42,Pus Cells (Urine),0,0,0,0,0,0
+43,Prothrombin Time & International Normalised Ratio(INR),0,0,0,0,0,0
+44,Protein Electrophoresis,0,0,0,0,0,0
+45,Platelet - Large Cell Ratio,0,0,0,0,0,0
+46,Pituitary Hormone Analysis,0,0,0,0,0,0
+47,Peripheral Blood Smear (Blood Picture),0,0,0,0,0,0
+48,Modified Acid Fast Staining for Cryptosporidia,0,0,0,0,0,0
+49,Pap Smear,0,0,0,0,0,0
+50,Others  (Urine),0,0,0,0,0,0
+51,Osteopontin,0,0,0,0,0,0
+52,Osteocalcin,0,0,0,0,0,0
+53,Organic acid analysis in metabolic encephalopathy,0,0,0,0,0,0
+54,Operation Theatre and ICU -Environmental Sampling,0,0,0,0,0,0
+55,Nucleated Red Blood Cell,0,0,0,0,0,0
+56,NS1AG ELISA,0,0,0,0,0,0
+57,lab test master1,0,0,0,0,0,0
+58,Latex Agglutination Test For Cryptococcus  Antigen,0,0,0,0,0,0
+59,Immunohistochemical Markers,0,0,0,0,0,0
+60,KOH Mount for fungal identification,0,0,0,0,0,0
+61,Haemoglobin Estimation (Hb),0,0,0,0,0,0
+62,HBV DNA,0,0,0,0,0,0
+63,HBsAg RAPID CARD TEST,0,0,0,0,0,0
+64,HBsAg ELISA,0,0,0,0,0,0
+65,HBSAg (by ECLIA),0,0,0,0,0,0
+66,HBeAg ELISA,0,0,0,0,0,0
+67,HBeAg,0,0,0,0,0,0
+68,HbA1C,0,0,0,0,0,0
+69,HAV IgM,0,0,0,0,0,0
+70,Hanging drop test for V.cholerae,0,0,0,0,0,0
+71,H1N1 - RTPCR,0,0,0,0,0,0
+72,JE - IgM ELISA,0,0,0,0,0,0
+73,Grams Staining,0,0,0,0,0,0
+74,Gram Stain For Yeast,0,0,0,0,0,0
+75,Gonadal Hormone Analysis,0,0,0,0,0,0
+76,Glucose Challenge Test (GCT),0,0,0,0,0,0
+77,Fungus Culture [URINE],0,0,0,0,0,0
+78,Fungus Culture [THROAT SWAB],0,0,0,0,0,0
+79,Fungus Culture [SYNOVIAL FLUID],0,0,0,0,0,0
+80,Fungus Culture [SPUTUM],0,0,0,0,0,0
+81,Fungus Culture [SKIN SCRAPINGS/ SUBCUTANEOUS TISSUE],0,0,0,0,0,0
+82,HCV Antibody (by ECLIA),0,0,0,0,0,0
+83,HCV ELISA,0,0,0,0,0,0
+84,HCV RNA,0,0,0,0,0,0
+85,Hemoglobin electrophoresis,0,0,0,0,0,0
+86,India Ink Preparation,0,0,0,0,0,0
+87,Immunotyping,0,0,0,0,0,0
+88,Reticulated Hemoglobin (RET He),0,0,0,0,0,0
+89,Immunofluorescence for P. jiroveci,0,0,0,0,0,0
+90,Immunofixation,0,0,0,0,0,0
+91,Immunocytochemistry,0,0,0,0,0,0
+92,Immuno Florescence On Renal And Skin Biopsies,0,0,0,0,0,0
+93,Immature Reticulocyte Fraction (IRF),0,0,0,0,0,0
+94,Immature Platelet Fraction (IPF),0,0,0,0,0,0
+95,ICMR No,0,0,0,0,0,0
+96,Hypothalamic Hormone Analysis,0,0,0,0,0,0
+97,httpstn (deleted) 1437,0,0,0,0,0,0
+98,HIV RNA - Quantitative,0,0,0,0,0,0
+99,HIV Antibody-ELISA,0,0,0,0,0,0
+100,HIV Antibody,0,0,0,0,0,0
+101,HIV - Western Blot,0,0,0,0,0,0
+102,"Histopathology- Biopsy and /
+Bone marrow aspiration Exfoliative cytology / cytopathology)",0,0,0,0,0,0
+103,High Fluorescent Reticulocyte (HFR),0,0,0,0,0,0
+104,HEV IgM,0,0,0,0,0,0
+105,Renal Function Test(RFT),0,0,0,0,0,0
+106,Screening for inborn errors of metabolism,0,0,0,0,0,0
+107,Reticulocyte Count,0,0,0,0,0,0
+108,Reverse Transcription Polymerase Chain Reaction(RT-PCR),0,0,0,0,0,0
+109,Treponema pallidum,0,0,0,0,0,0
+110,Total Iron Binding Capacity,0,0,0,0,0,0
+111,Total Eosinophilic Count (TEC),0,0,0,0,0,0
+112,Total CHO/HDL Ratio,0,0,0,0,0,0
+113,Tmcoqoaln (deleted) 1435,0,0,0,0,0,0
+114,TmconftzmUpdated (deleted) 1436,0,0,0,0,0,0
+115,Thyroid Profile,0,0,0,0,0,0
+116,Thyroid Hormone Analysis,0,0,0,0,0,0
+117,Throat swab for Diphtheria- Albert stain,0,0,0,0,0,0
+118,Throat swab for Diphtheria culture sensitivity,0,0,0,0,0,0
+119,testttrama,0,0,0,0,0,0
+120,testteja,0,0,0,0,0,0
+121,testram,0,0,0,0,0,0
+122,testraghu,0,0,0,0,0,0
+123,testkumar,0,0,0,0,0,0
+124,Testing of Disinfectants,0,0,0,0,0,0
+125,test678,0,0,0,0,0,0
+126,test123,0,0,0,0,0,0
+127,Test Mster (deleted) 1427,0,0,0,0,0,0
+128,Troponin I/ Troponin T,0,0,0,0,0,0
+129,unknow test,0,0,0,0,0,0
+130,Urine Analysis by Nephelometric method,0,0,0,0,0,0
+131,Vitamin B12,0,0,0,0,0,0
+132,WIDAL TEST- TUBE AGGLUTINATION  METHOD,0,0,0,0,0,0
+133,WIDAL TEST SLIDE  METHOD,0,0,0,0,0,0
+134,WIDAL Test (Typhoid) (deleted) 5,0,0,0,0,0,0
+135,Widal Test,0,0,0,0,0,0
+136,Wet Mount for Protozoa and Helminths (aspirates),0,0,0,0,0,0
+137,WEIL FELIX,0,0,0,0,0,0
+138,VLDL Cholestrol (Manual),0,0,0,0,0,0
+139,Vitamin D,0,0,0,0,0,0
+140,VDRL,0,0,0,0,0,0
+141,Urine Culture & Sensitiviy (Conventional),0,0,0,0,0,0
+142,Vaginal Smear For Sperm In medico-legal Cases,0,0,0,0,0,0
+143,Urine Vanillylmandelic Acid (VMA),0,0,0,0,0,0
+144,Urine Stone Analysis - Qualitative,0,0,0,0,0,0
+145,Urine Pregnancy Test (UPT),0,0,0,0,0,0
+146,Urine porphyrins,0,0,0,0,0,0
+147,Urine metanephrines,0,0,0,0,0,0
+148,Urine metabolic Screening - Qualitative,0,0,0,0,0,0
+149,Urine Electrophoresis,0,0,0,0,0,0
+150,Test Master (deleted) 1431,0,0,0,0,0,0
+151,Test Master (deleted) 1428,0,0,0,0,0,0
+152,test lab,0,0,0,0,0,0
+153,SCRUB TYPHUS ELISA,0,0,0,0,0,0
+154,Serum Lactate Dehydrogenase(LDH),0,0,0,0,0,0
+155,Serum Iron,0,0,0,0,0,0
+156,Serum Ferritin,0,0,0,0,0,0
+157,Serum Calcium,0,0,0,0,0,0
+158,Serum C-Reactive Protein (CRP) (by Nephelometry),0,0,0,0,0,0
+159,Serum Amylase,0,0,0,0,0,0
+160,SEROLOGY-BRUCELLA,0,0,0,0,0,0
+161,Semen Analysis -sperm count,0,0,0,0,0,0
+162,Scrub Typhus - IgM ELISA,0,0,0,0,0,0
+163,Serum Phosphorous,0,0,0,0,0,0
+164,Screening test for  G6PD Deficiency – Dry reduction test,0,0,0,0,0,0
+165,Fungus Culture [PLEURAL FLUID],0,0,0,0,0,0
+166,SANGER SEQUENCING - Genotyping,0,0,0,0,0,0
+167,SAMPLE (deleted) 1438,0,0,0,0,0,0
+168,RTPCR H1N1,0,0,0,0,0,0
+169,rktest,0,0,0,0,0,0
+170,Rheumatoid Factor (by Nephelometry),0,0,0,0,0,0
+171,Rheumatoid Factor,0,0,0,0,0,0
+172,Serum Lipase,0,0,0,0,0,0
+173,Serum Sodium/Pottasium,0,0,0,0,0,0
+174,TB Culture by MGIT method,0,0,0,0,0,0
+175,Spectral Karyotyping(SKY),0,0,0,0,0,0
+176,Surveillance of Antimicrobial Resistance,0,0,0,0,0,0
+177,Stool-hanging drop for V. Cholerae,0,0,0,0,0,0
+178,Stool for OVA and Cyst,0,0,0,0,0,0
+179,Stool for occult blood and reducing substance,0,0,0,0,0,0
+180,Stool culture fro Vibrio cholerae and other bacterial entero pathogens,0,0,0,0,0,0
+181,Stool Culture &Sensitivity (Conventional),0,0,0,0,0,0
+182,status test,0,0,0,0,0,0
+183,Sputum for TB,0,0,0,0,0,0
+184,sodium (deleted) 1426,0,0,0,0,0,0
+185,Serum Total Albumin,0,0,0,0,0,0
+186,Smear for RTI/STDs,0,0,0,0,0,0
+187,Smear for Leprosy,0,0,0,0,0,0
+188,Smear examination for Leprosy,0,0,0,0,0,0
+189,siritest,0,0,0,0,0,0
+190,Serum Uric Acid,0,0,0,0,0,0
+191,Serum Triglycerides,0,0,0,0,0,0
+192,Serum Transferrin,0,0,0,0,0,0
+193,Serum Total Proteins,0,0,0,0,0,0
+194,Fungus Culture [PUS],0,0,0,0,0,0
+195, Culure& sensitivity aerob-Wound swab,0,0,0,0,0,0
+196,Fungus Culture [PERICARDIAL FLUID],0,0,0,0,0,0
+197,Culture & Sensitivity - Aerobic [Dialysis Fluid],0,0,0,0,0,0
+198,Culture & Sensitivity - Aerobic [Groin Swab Right],0,0,0,0,0,0
+199,Culture & Sensitivity - Aerobic [Groin Swab Left],0,0,0,0,0,0
+200,Culture & Sensitivity - Aerobic [GRAFT Culture],0,0,0,0,0,0
+201,Culture & Sensitivity - Aerobic [FM samples ],0,0,0,0,0,0
+202,Culture & Sensitivity - Aerobic [FESS Specimen],0,0,0,0,0,0
+203,Culture & Sensitivity - Aerobic [Endotracheal tube],0,0,0,0,0,0
+204,Culture & Sensitivity - Aerobic [Endotracheal aspirate],0,0,0,0,0,0
+205,Culture & Sensitivity - Aerobic [Drain Tip],0,0,0,0,0,0
+206,Culture & Sensitivity - Aerobic [Drain fluid],0,0,0,0,0,0
+207,Culture & Sensitivity - Aerobic [Cyst aspirate],0,0,0,0,0,0
+208,Culture & Sensitivity - Aerobic [WOUND SWAB],0,0,0,0,0,0
+209,Culture & Sensitivity - Aerobic [Clot],0,0,0,0,0,0
+210,Culture & Sensitivity - Aerobic [Cerebrospinal Fluid],0,0,0,0,0,0
+211,Culture & Sensitivity - Aerobic [Central line tip],0,0,0,0,0,0
+212,Culture & Sensitivity - Aerobic [Catheter pull through blood culture],0,0,0,0,0,0
+213,Culture & Sensitivity - Aerobic [Bronchial wash],0,0,0,0,0,0
+214,Culture & Sensitivity - Aerobic [Blood bag],0,0,0,0,0,0
+215,Culture & Sensitivity - Aerobic [Bile ],0,0,0,0,0,0
+216,Culture & Sensitivity - Aerobic [ADENOID TISSUE],0,0,0,0,0,0
+217,Culture & Sensitivity - Aerobic (Aural Swab Right),0,0,0,0,0,0
+218,Culture & Sensitivity - Aerobic [High Vaginal Swab],0,0,0,0,0,0
+219,Culture & Sensitivity - Aerobic [Inter costal drainage fluid[,0,0,0,0,0,0
+220,Culture & Sensitivity - Aerobic [Liver Abcess],0,0,0,0,0,0
+221,Culture & Sensitivity - Aerobic [Mesh Culture],0,0,0,0,0,0
+222,Culture & Sensitivity - Aerobic [Umblical Swab],0,0,0,0,0,0
+223,Culture & Sensitivity - Aerobic [Tracheal aspirate],0,0,0,0,0,0
+224,Culture & Sensitivity - Aerobic [Tissue],0,0,0,0,0,0
+225,Culture & Sensitivity - Aerobic [THROAT SWAB],0,0,0,0,0,0
+226,Culture & Sensitivity - Aerobic [SYNOVIAL FLUID],0,0,0,0,0,0
+227,Culture & Sensitivity - Aerobic [Stool],0,0,0,0,0,0
+228,Culture & Sensitivity - Aerobic [SPUTUM],0,0,0,0,0,0
+229,Culture & Sensitivity - Aerobic [Split Skin Smear],0,0,0,0,0,0
+230,Culture & Sensitivity - Aerobic [Shunt Fluid],0,0,0,0,0,0
+231,Culture & Sensitivity - Aerobic [Settle plate],0,0,0,0,0,0
+232,Culture & Sensitivity - Aerobic [R-O Water],0,0,0,0,0,0
+233,Culture & Sensitivity - Aerobic [Pus],0,0,0,0,0,0
+234,Culture & Sensitivity - Aerobic [PLEURAL FLUID],0,0,0,0,0,0
+235,Culture & Sensitivity - Aerobic [PERICARDIAL FLUID],0,0,0,0,0,0
+236,Culture & Sensitivity - Aerobic [PD fluid],0,0,0,0,0,0
+237,Culture & Sensitivity - Aerobic [OT Swab],0,0,0,0,0,0
+238,Culture & Sensitivity - Aerobic [Nostril Swab Right],0,0,0,0,0,0
+239,Culture & Sensitivity - Aerobic [Nostril Swab Left],0,0,0,0,0,0
+240,Culture & Sensitivity - Aerobic [Nasal Swab],0,0,0,0,0,0
+241,CSF Electrophoresis,0,0,0,0,0,0
+242,Crystals  (Urine),0,0,0,0,0,0
+243,COVID - 19,0,0,0,0,0,0
+244,aut test,0,0,0,0,0,0
+245,Antifungal Susceptibility Test For Yeast - Disc Diffusion Method,0,0,0,0,0,0
+246,Anti-Streptolysin O (ASO) (by Nephelometry),0,0,0,0,0,0
+247,Anti-Streptolysin O (ASO),0,0,0,0,0,0
+248,Anti-SARS-CoV2 IgG (CLIA),0,0,0,0,0,0
+249,Anti-HBC IgM,0,0,0,0,0,0
+250,ANTI HCV RAPID CARD TEST,0,0,0,0,0,0
+251,ANTI HCV ELISA,0,0,0,0,0,0
+252,Anti HCV Antibody,0,0,0,0,0,0
+253,Anti HCV Ab,0,0,0,0,0,0
+254,Anti Hbs,0,0,0,0,0,0
+255,Anti Hbe,0,0,0,0,0,0
+256,Anaerobic culture- by Gas pack method,0,0,0,0,0,0
+257,Alpha-fetoprotein (AFP),0,0,0,0,0,0
+258,Alkaline Phosphate (ALP),0,0,0,0,0,0
+259,Alberts stain For Corynebacterium diphtheriae,0,0,0,0,0,0
+260,Adrenal Hormone Analysis,0,0,0,0,0,0
+261,Activated Partial Thromboplastin Time (APTT),0,0,0,0,0,0
+262,Acid Fast Staining,0,0,0,0,0,0
+263,Absolute Eosinophil Count (AEC),0,0,0,0,0,0
+264,Appearance,0,0,0,0,0,0
+265,Bilirubin Indirect (Manual),0,0,0,0,0,0
+266,Coomb’s test-Indirect,0,0,0,0,0,0
+267,Blood Culture (BACTEC),0,0,0,0,0,0
+268,Coomb’s test-Direct,0,0,0,0,0,0
+269,Collagen related tests,0,0,0,0,0,0
+270,Clotting factor assay,0,0,0,0,0,0
+271,CHIKUNGUNYA IGM,0,0,0,0,0,0
+272,Chikungunya - IgM ELISA,0,0,0,0,0,0
+273,CHIKUNGUNYA - IgG ELISA ,0,0,0,0,0,0
+274,Cell Count and Bio-chemistry,0,0,0,0,0,0
+275,Cell Block,0,0,0,0,0,0
+276,CD4 Count,0,0,0,0,0,0
+277,Cast  (Urine),0,0,0,0,0,0
+278,CALCIUM (deleted) 1432,0,0,0,0,0,0
+279,CA 125,0,0,0,0,0,0
+280,C-REACTIVE PROTEIN (CRP),0,0,0,0,0,0
+281,Brucella Serology(standard Agglutination Test),0,0,0,0,0,0
+282,"Bone Marrow Aspiration And Cytochemistry (PAS, MPO & NSE)",0,0,0,0,0,0
+283,Body Fluid Cytology,0,0,0,0,0,0
+284,Blood Sugar,0,0,0,0,0,0
+285,Blood Smear for Filaria,0,0,0,0,0,0
+286,Blood gas analysis,0,0,0,0,0,0
+287,Culture & Sensitivity - Aerobic [URINE],0,0,0,0,0,0
+288,Culture & Sensitivity - Aerobic-BAL,0,0,0,0,0,0
+289,Fungus Culture [ASCITIC FLUID],0,0,0,0,0,0
+290,Fungal Culure-Clot,0,0,0,0,0,0
+291,Fungal Culure-Groin Swab Left,0,0,0,0,0,0
+292,Fungal Culure-GRAFT culture,0,0,0,0,0,0
+293,Fungal Culure-FM samples ( Text box approx 100 characters),0,0,0,0,0,0
+294,Fungal Culure-FESS Specimen,0,0,0,0,0,0
+295,Fungal Culure-Endotracheal tube,0,0,0,0,0,0
+296,Fungal Culure-Drain Tip,0,0,0,0,0,0
+297,Fungal Culure-Drain fluid,0,0,0,0,0,0
+298,Fungal Culure-Dialysis Fluid,0,0,0,0,0,0
+299,Fungal Culure-Cyst aspirate,0,0,0,0,0,0
+300,Fungal Culure-Cerebrospinal Fluid,0,0,0,0,0,0
+301,Culture & Sensitivity - Aerobic-[Axilla swab Right],0,0,0,0,0,0
+302,Fungal Culure-Central line tip,0,0,0,0,0,0
+303,Fungal Culure-Bronchial wash,0,0,0,0,0,0
+304,Fungal Culure-Bile,0,0,0,0,0,0
+305,Fungal Culure-Axilla swab right,0,0,0,0,0,0
+306,Fungal Culure-Axilla swab left,0,0,0,0,0,0
+307,Fungal Culure-Aural swab right,0,0,0,0,0,0
+308,Fungal Culure-Aural swab left,0,0,0,0,0,0
+309,Fungal Culure-Ascitic fluid,0,0,0,0,0,0
+310,Fungal Culure- OT SETTLE PLATE,0,0,0,0,0,0
+311,Fungal Culure-Groin Swab Right,0,0,0,0,0,0
+312,Fungal Culure-High Vaginal Swab,0,0,0,0,0,0
+313,Fungal Culure-Inter costal drainage fluid,0,0,0,0,0,0
+314,Fungal Culure-Liver Abcess,0,0,0,0,0,0
+315,Fungal Culure-Urine,0,0,0,0,0,0
+316,Fungal Culure-Umblical Swab,0,0,0,0,0,0
+317,A/G Ratio (Manual),0,0,0,0,0,0
+318,Fungal Culure-Tracheal aspirate,0,0,0,0,0,0
+319,Fungal Culure-Tissue,0,0,0,0,0,0
+320,Fungal Culure-Throat Swab,0,0,0,0,0,0
+321,Fungal Culure-Synovial Fluid,0,0,0,0,0,0
+322,Fungal Culure-Stool,0,0,0,0,0,0
+323,Fungal Culure-Sputum,0,0,0,0,0,0
+324,Fungal Culure-Shunt Fluid,0,0,0,0,0,0
+325,Fungal Culure-Settle plate,0,0,0,0,0,0
+326,Fungal Culure-R-O Water,0,0,0,0,0,0
+327,Fungal Culure-Pus,0,0,0,0,0,0
+328,Fungal Culure-Pericardial Fluid,0,0,0,0,0,0
+329,Fungal Culure-PD fluid,0,0,0,0,0,0
+330,Fungal Culure-Nostril Swab Right,0,0,0,0,0,0
+331,Fungal Culure-Nostril Swab Left,0,0,0,0,0,0
+332,Fungal Culure-Nasal Swab,0,0,0,0,0,0
+333,Fungal Culure-Mesh Culture,0,0,0,0,0,0
+334,Fungal Culure -Pleural Fluid,0,0,0,0,0,0
+335,Fungal culture - others,0,0,0,0,0,0
+336,Fungal Culture,0,0,0,0,0,0
+337,Detection of variant Hb,0,0,0,0,0,0
+338,Detection of HIV RNA (Qualitative),0,0,0,0,0,0
+339,DENGUE IgM ELISA,0,0,0,0,0,0
+340,DENGUE IgG ELISA,0,0,0,0,0,0
+341,DENGUE - NS1 ANTIGEN,0,0,0,0,0,0
+342,DENGUE - IgM ELISA,0,0,0,0,0,0
+343,DENGUE - IgG ELISA,0,0,0,0,0,0
+344,Dark Field Microscopy for Leptospira,0,0,0,0,0,0
+345,D Dimer,0,0,0,0,0,0
+346,Cytogenetics,0,0,0,0,0,0
+347,Culture Sensitivity for  Diphtheria,0,0,0,0,0,0
+348,Culture On LJ Medium (Conventional) - TB Culture,0,0,0,0,0,0
+349,Culture & Sensitivity - ASCITIC FLUID,0,0,0,0,0,0
+350,Culture & Sensitivity - Anaerobic [URINE],0,0,0,0,0,0
+351,Culture & Sensitivity - Anaerobic [TISSUE],0,0,0,0,0,0
+352,Culture & Sensitivity - Anaerobic [PUS],0,0,0,0,0,0
+353,Culture & Sensitivity - Anaerobic [deep seated infection],0,0,0,0,0,0
+354,Culture & Sensitivity - Anaerobic [ ],0,0,0,0,0,0
+355,Culture & Sensitivity - Aerobic[Blood],0,0,0,0,0,0
+356,Culture & Sensitivity - Aerobic[Axilla swab left],0,0,0,0,0,0
+357,Detection of M. Tuberculosis and Rifampicin Resistance,0,0,0,0,0,0
+358,Differential Leukocyte Count (DLC),0,0,0,0,0,0
+359,Frozen Section,0,0,0,0,0,0
+360,DUMMY TEST (deleted) 1434,0,0,0,0,0,0
+361,Free light chain assay,0,0,0,0,0,0
+362,Folate,0,0,0,0,0,0
+363,FNAC,0,0,0,0,0,0
+364,Fluid Cell Count,0,0,0,0,0,0
+365,Flow Cytometry On FNAC / Body Fluids,0,0,0,0,0,0
+366,Flow Cytometry for haematological malignancies,0,0,0,0,0,0
+367,FISH For Solid Tumours,0,0,0,0,0,0
+368,FISH For Hematological Malignancies,0,0,0,0,0,0
+369,Fibrinogen,0,0,0,0,0,0
+370,Fibrin Degradation Products,0,0,0,0,0,0
+371,feds (deleted) 1439,0,0,0,0,0,0
+372,fed (deleted) 1440,0,0,0,0,0,0
+373,Exudates & Transudates- Culture & Sensitivity(conventional),0,0,0,0,0,0
+374,Erythropoetin,0,0,0,0,0,0
+375,Erythrocyte Sedimentation Rate(ESR),0,0,0,0,0,0
+376,Epithelial Cells  (Urine),0,0,0,0,0,0
+377,Enzyme Assays,0,0,0,0,0,0
+378,Electrolytes,0,0,0,0,0,0
+379,Early identification of pathogen (Phenotypc method by MALDI TOF),0,0,0,0,0,0
+380,Fungal Culure-Tracheal Swab,0,0,0,0,0,0
+381,Grand_Total,75,113,18,170,2,378
