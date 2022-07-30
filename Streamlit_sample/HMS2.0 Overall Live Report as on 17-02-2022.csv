@@ -1,0 +1,13 @@
+Directorate_name,facility_type_name,Sum of Total User Count,Sum of User Login Count,Sum of Registration Count,Sum of Lab Order Count,Sum of Admission Count,Sum of Total Department Count,Sum of Total Active Department Count
+Directorate of Medical and Rural Health Services(DMS),DHQ,3335,3103,172356,248526,756300%,2452,186
+,SDH,11928,8944,601647,1169520,1202100%,8461,1048
+Directorate of Medical Education (DME),MCH,9913,9373,663802,467775,12075800%,2762,581
+,MEDICAL COLLEGE ATTACHED HOSPITAL,648,573,26345,4034,239600%,2921,28
+Directorate Of Public Health And Preventive Medicine(DPH),CHC,63,54,14413,24358,0%,117,34
+,PHC,9625,8251,1674592,2714014,0%,17900,4307
+,UG-CHC,2366,2029,654880,1183473,0%,4394,1198
+,UG-CHC(MCH),266,230,87146,173961,0%,494,135
+,UG-PHC,301,258,71377,132925,0%,559,140
+,UG-PHC(MCH),28,24,14832,17176,0%,52,14
+,UPHC,2307,1983,408852,765313,0%,4186,995
+Total Result,,40780,34822,4390242,6901075,14273800%,44298,8666
