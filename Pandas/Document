@@ -153,3 +153,79 @@ df['month'] = df['Date'].dt.strftime('%b')
 #df['month'] = df['Date'].dt.strftime('%B')
 fu = df[df["month"] == "Jan"]
 print(fu)
+
+
+Date and time filter
+
+How to Filter DataFrame by Date in Pandas
+
+
+import pandas as pd
+
+df = pd.read_csv("file.csv")
+df['Date'] = pd.DatetimeIndex(df['Date'])
+df['month'] = pd.DatetimeIndex(df['Date']).month
+df['year'] = pd.DatetimeIndex(df['Date']).year
+df['day'] = pd.DatetimeIndex(df['Date']).day
+
+df['month'] = df['Date'].dt.strftime('%b')
+#df['month'] = df['Date'].dt.strftime('%B')
+fu = df[df["month"] == "Jan"]
+print(fu)
+Date and time filter Methods
+
+
+import pandas as pd
+import streamlit as st
+
+df = pd.read_csv("Supermarket.csv")
+df["Date"] = pd.DatetimeIndex(df["Date"])
+
+## https://datascientyst.com/filter-by-date-pandas-dataframe/
+#####  Method 1  #####
+#set as index column
+df = df.set_index('Date')
+sf = df.loc['2019-01-05':'2019-01-15']
+#We need to set index first
+sf.reset_index(inplace=True)
+#cut the date columns
+sfm = sf.pop('Date')
+#past the column
+sf.insert(10, 'Date', sfm)
+# if you need to show only date use this
+sf["Date"] = sf["Date"].dt.date
+print(sf.head().to_string())
+
+#### Method 2 ########
+filtersf = df[(df['Date'] >= '2019-01-01') & (df['Date'] <= '2019-01-15')]
+sf["Date"] = sf["Date"].dt.date
+print(sf.head().to_string())
+
+# filter by single day
+df_filtered = df[df['date'].dt.strftime('%Y-%m-%d') == '2014-01-01']
+
+# filter by single month
+df_filtered = df[df['date'].dt.strftime('%Y-%m') == '2014-01']
+
+# filter by single year
+df_filtered = df[df['date'].dt.strftime('%Y') == '2014']
+Last 7 Day 
+
+
+import datetime as DT
+today = DT.date.today()
+week_ago = today - DT.timedelta(days=7)
+Day wise count 
+
+
+filtersf = df[(df['date'] >= str(week_ago)) & (df['date'] <= str(today))]
+filtersf.groupby(by=filtersf['date'].dt.date).count()
+
+fgh = pd.DataFrame(filtersf.groupby(['district']).size().reset_index(name='counts'))
+filtersf.groupby(['count'])['district'].sum()
+df2 = filtersf.groupby(['district'])['count'].sum().reset_index()
+
+df['u'] = pd.to_datetime(df['u']).dt.date 
+df['u'] = pd.to_datetime(df['u']).dt.normalize()
+filtersf = df[(df['u'] >= '2022-07-01') & (df['u'] <= '2022-07-04')]
+print(len(filtersf))
