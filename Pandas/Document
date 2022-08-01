@@ -5,30 +5,39 @@ Last updated: May 11, 20221 min read
 Pandas Basic comment 
 
 Python Cheat Sheet for Data Science 
+https://elitedatascience.com/python-cheat-sheet
 
 https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
 
 Scikit-Learn Cheat Sheet: Python Machine Learning 
+https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 
-Top 28 Cheat Sheets for Machine Learning, Data Science and Big Data 
+Top 28 Cheat Sheets for Machine Learning, Data Science and Big Data
+https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/
 
 Pandas Cheat Sheet — Python for Data Science 
+https://www.dataquest.io/blog/pandas-cheat-sheet/
 
 Pandas 101 - Python and R Tips 
+https://cmdlinetips.com/pandas-tutorial/
 
 Mean Function in Python pandas (Dataframe, Row and column wise mean) - DataScience Made Simple 
+https://www.datasciencemadesimple.com/mean-function-python-pandas-dataframe-row-column-wise-mean/
 
 Pandas Fliters
-
-https://towardsdatascience.com/8-ways-to-filter-pandas-dataframes-d34ba585c1b8 
+https://towardsdatascience.com/8-ways-to-filter-pandas-dataframes-d34ba585c1b8
 
 pandas: filter rows of DataFrame with operator chaining 
+https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining
 
 How to filter data without using pandas package
+https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining
 
 Python : 10 Ways to Filter Pandas DataFrame 
+https://www.listendata.com/2019/07/how-to-filter-pandas-dataframe.html
 
 Python Pandas : Select Rows in DataFrame by conditions on multiple columns 
+https://thispointer.com/python-pandas-select-rows-in-dataframe-by-conditions-on-multiple-columns
 
 Read csv file
 
@@ -89,10 +98,13 @@ fg = df1.loc[(df1[list(filter_v)] == pd.Series(filter_v)).all(axis=1)]
 DATE AND Month
 
 Extract month and year to a new column in Pandas | Data Interview Questions 
+https://www.interviewqs.com/ddi-code-snippets/extract-month-year-pandas
 
 DuckDB - Efficient SQL on Pandas with DuckDB 
+https://duckdb.org/2021/05/14/sql-on-pandas.html 
 
 Pandas Pivot table | Create Pivot Table Using Pandas in Python 
+https://www.analyticsvidhya.com/blog/2020/03/pivot-table-pandas-python/
 
 Data Preprocessing 
 
@@ -107,10 +119,14 @@ print(df.info())           ###good
 prrint(df.select_dtypes(include = np.object)
 
 covert to object / int32 to datatime formet in pandas
+https://www.marsja.se/pandas-convert-column-to-datetime/
 
-Pandas Convert Column to datetime - object/string, integer, CSV & Excel 
+Pandas Convert Column to datetime - object/string, integer, CSV & Excel
+https://www.marsja.se/pandas-convert-column-to-datetime/
 
 Convert the column type from string to datetime format in Pandas dataframe - GeeksforGeeks 
+https://www.geeksforgeeks.org/convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe/
+
 
 How to get First Value in your dataframe
 
@@ -125,9 +141,10 @@ print(fin.iloc[0].tolist()[2])
  
 
 What Is Pandas in Python? Everything You Need to Know 
+https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/#:~:text=Pandas%20is%20an%20open%20source,support%20for%20multi%2Ddimensional%20arrays.
 
 Change datatype (object to datetime)
-
+https://pythonexamples.org/pandas-dataframe-add-append-row/
 
 df["Order_test_date"] = pd.to_datetime(df["Order_test_date"])
 
@@ -136,10 +153,12 @@ print(df[df["Order_test_date"] >= (pd.to_datetime('8/5/21') - pd.Timedelta(days=
  
 
 How to Add or Insert Row to Pandas DataFrame? - Python Examples 
+https://pythonexamples.org/pandas-dataframe-add-append-row/
 
 Date and time filter
 
 How to Filter DataFrame by Date in Pandas 
+https://datascientyst.com/filter-by-date-pandas-dataframe/
 
 Date and time
 
@@ -158,6 +177,7 @@ print(fu)
 Date and time filter
 
 How to Filter DataFrame by Date in Pandas
+https://datascientyst.com/filter-by-date-pandas-dataframe/
 
 
 import pandas as pd
