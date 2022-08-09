@@ -1,9 +1,3 @@
-Pandas DataFrame
-Created by Hari Kumar R
-Last updated: May 11, 20221 min read
-2 people viewed
-Pandas Basic comment 
-
 Python Cheat Sheet for Data Science 
 https://elitedatascience.com/python-cheat-sheet
 
