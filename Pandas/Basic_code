@@ -301,7 +301,7 @@ df.loc[3:5, :] #rows 3 and 4, all columns
 df.loc['b':'d', :]
 
 Date and time Filters 
-
+**********************
 import datetime as DT
 today = DT.date.today()
 week_ago = today - DT.timedelta(days=7)
@@ -397,24 +397,3 @@ s.str.swapcase()
 s.str.islower()         ====> True or flase
 s.str.isupper()        ====> True or flase
 s.str.isnumeric()    ====> True or flase
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
